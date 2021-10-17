@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=Tech-Ensemble_splash
+Name=Tech-Ensemble_splash
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Tech-Ensemble_splash
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Name=Tech-Ensemble_splash
+X-KDE-PluginInfo-Author=MateRhyu
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=LGPLv3
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-Plasma-MainScript=defaults
